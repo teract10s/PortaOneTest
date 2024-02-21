@@ -1,0 +1,17 @@
+Info about sequence
+	Max number: 49989715
+	Min number: -49997130
+	Median: 451084.5
+	Average value: -76296.41027543355
+	Max increasing subsequence:
+	Increasing subsequence {
+		start=2251
+		end=2257
+		size=7
+	}
+	Max descending subsequence:
+	Descending subsequence {
+		start=5337
+		end=5343
+		size=7
+	}
